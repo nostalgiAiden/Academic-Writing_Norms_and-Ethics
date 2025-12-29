@@ -1,3 +1,2 @@
 # Academic-Writing_Norms_and-Ethics
-Academic Writing_Norms_and Ethics
-print("Hello World")
+An Example for Academic Writing, Norms, and Ethics
